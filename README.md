@@ -13,7 +13,7 @@ Welcome to the Big Data Analytics repository. This project is dedicated to provi
 
 ## Introduction
 
-Big Data Analytics involves examining large datasets to uncover hidden patterns, correlations, and other insights. This repository contains various projects and scripts that demonstrate how to work with big data using different tools and techniques.
+Big Data Analytics involves examining large datasets to uncover hidden patterns, correlations, and other insights. This repository contains various projects and scripts that demonstrate how to work with big data technologies.
 
 ## Technologies Used
 

@@ -1,4 +1,4 @@
-# Contributing to Big Data Analytics
+# Contributing to Big Data Analytics.
 
 First off, thank you for considering contributing to Big Data Analytics! It's people like you that make an open-source project amazing.
 
